@@ -1,0 +1,8 @@
+{
+    "features_finales": [],
+    "target_stats": {
+        "train_mean": 17.470629452157045,
+        "test_mean": 17.473049692395765
+    },
+    "scaling": {}
+}
